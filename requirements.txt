@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-pandas
-numpy
-python-dateutil
+fastapi==0.115.0
+uvicorn==0.30.6
+pandas==2.2.2
+numpy==2.0.2
+python-dateutil==2.9.0.post0
